@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local model files are too large for a normal GitHub repository.
+models/*.gguf
